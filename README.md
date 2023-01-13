@@ -33,6 +33,7 @@ I am a Final Year ECE Undergraduate who is passionate about creating software th
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyendu-Dhauri&theme=vue)](https://github.com/Dibyendu-Dhauri/)
 
 
+
 ## 💳 Github Profile Summary Card
 
-[![Dibyendu's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dibyendu-Dhauri&theme=vue)](https://github.com/Dibyendu-Dhauri/)
+[![summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dibyendu-Dhauri&theme=vue)](https://github.com/Dibyendu-Dhauri/)
