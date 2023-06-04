@@ -2,7 +2,7 @@
 # Hi 👋, I'm Dibyendu! 
 A passionate **FullStack developer**
 
-I am a Final Year ECE Undergraduate who is passionate about creating software that is scalable and solves complex problems. I have learned Full Stack Development(MERN) and love to create web apps.
+Who is passionate about creating software that is scalable and solves complex problems. I have learned Full Stack Development(MERN) and love to create web apps.
 
 
 ## 🔗 Social
