@@ -1,8 +1,7 @@
 # Hi 👋, I'm Dibyendu!
-💻 Software Developer with 2 years of experience in Full-Stack Development.  
-I specialize in building scalable and reliable systems with a strong foundation in OOP, Data Structures & Algorithms, and software engineering principles.  
-Passionate about solving complex problems and turning ideas into impactful solutions.
+Software Developer with 3 years of experience in Full-Stack Development, Backend Engineering, and AI/ML-driven solutions. Skilled in building scalable microservices with hands-on experience in RAG pipelines, LLM integrations, and cloud-native architectures. Strong foundation in Data Structures and Algorithms, Object-Oriented Programming (OOP), and core software engineering principles.
 
+<!--
 
 ## 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibyendu-dhauri/)
@@ -63,10 +62,10 @@ Passionate about solving complex problems and turning ideas into impactful solut
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-8E44AD?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
-
+-->
 
 ## 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyendu-Dhauri&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dibyendu-Dhauri&layout=compact&theme=tokyonight)
 
 ## 💳 GitHub Profile Summary
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dibyendu-Dhauri&theme=tokyonight)
