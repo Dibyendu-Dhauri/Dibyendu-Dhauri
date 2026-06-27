@@ -62,10 +62,12 @@ Software Developer with 3 years of experience in Full-Stack Development, Backend
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-8E44AD?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
+## 💳 GitHub Profile Summary
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dibyendu-Dhauri&theme=tokyonight)
+
 -->
 
 ## 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dibyendu-Dhauri&layout=compact&theme=tokyonight)
 
-## 💳 GitHub Profile Summary
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dibyendu-Dhauri&theme=tokyonight)
+
